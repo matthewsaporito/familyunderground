@@ -19,6 +19,9 @@ body {
     text-decoration: none; /* Remove default underline */
   }
 
+  h2 { 
+    text-align: center;
+  }
   .video-container {
     margin-bottom: 20px; /* Adds space below each video */
     text-align: center;
